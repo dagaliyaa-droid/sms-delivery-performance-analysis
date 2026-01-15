@@ -1,0 +1,11 @@
+message_id,client_name,operator,route,status,delivery_time_seconds,date
+MSG001,ClientA,Airtel,Promotional,DELIVERED,12,01-10-2024
+MSG002,ClientA,Jio,Transactional,FAILED,,01-10-2024
+MSG003,ClientB,VI,OTP,DELIVERED,8,01-10-2024
+MSG004,ClientC,Airtel,OTP,FAILED,,02-10-2024
+MSG005,ClientB,Jio,Promotional,DELIVERED,20,02-10-2024
+MSG006,ClientA,VI,Transactional,DELIVERED,15,03-10-2024
+MSG007,ClientC,Jio,OTP,FAILED,,03-10-2024
+MSG008,ClientB,Airtel,Promotional,DELIVERED,18,03-10-2024
+MSG009,ClientA,Airtel,Transactional,DELIVERED,10,04-10-2024
+MSG010,ClientC,VI,OTP,FAILED,,04-10-2024
